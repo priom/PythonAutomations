@@ -1,8 +1,8 @@
+# search domain in namecheap
 import webbrowser, sys
 
-# sys.argv
 
-# check if cli args passed
+# check no. of args
 if len(sys.argv) < 2:
     print("Please enter your desired domain name!")
 else:
