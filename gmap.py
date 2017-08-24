@@ -1,6 +1,5 @@
 import webbrowser, sys, pyperclip
 
-sys.argv
 
 # check if cli args passed
 if len(sys.argv) > 1:
